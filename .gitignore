@@ -1,0 +1,6 @@
+# Project exclude paths
+/first/target/
+/first/.idea/
+/serv/target/
+/serv/.idea/
+/.idea/
